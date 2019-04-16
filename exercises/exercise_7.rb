@@ -6,11 +6,10 @@ require_relative './exercise_4'
 require_relative './exercise_5'
 require_relative './exercise_6'
 
-require 'pry'
 
 puts "Exercise 7"
 puts "----------"
-binding.pry
+
 # Your code goes here ...
 
 puts "Enter a name for your new store:"
