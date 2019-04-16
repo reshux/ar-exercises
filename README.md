@@ -60,7 +60,7 @@ You can work with the models with irb by running
 2. Load the second store from the database and assign it to `@store2`.
 3. Update the first store (`@store1`) instance in the database. (Change its name or something.)
 
-### Exercise 3: Delete the third store
+### Exercise 3: Delete the third store - DONE
 
 1. Load the third store (into `@store3`) as you did the other two before.
 2. Using Active Record's `destroy` method, delete the store from the database.
