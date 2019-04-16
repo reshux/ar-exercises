@@ -39,6 +39,7 @@ ActiveRecord::Schema.define do
     table.column :hourly_rate, :integer
     table.timestamps null: false
   end
+
 end
 
 puts 'Setup DONE'
