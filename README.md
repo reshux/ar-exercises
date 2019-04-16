@@ -66,7 +66,7 @@ You can work with the models with irb by running
 2. Using Active Record's `destroy` method, delete the store from the database.
 3. Verify that the store has been deleted by again outputting (`puts`ing) the `count` (as you did in Exercise 1.)
 
-### Exercise 4: Loading a subset of stores
+### Exercise 4: Loading a subset of stores - DONE
 
 1. Borrowing and modifying the code from Exercise one, create 3 more stores:
 
