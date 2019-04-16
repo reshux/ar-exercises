@@ -78,7 +78,7 @@ You can work with the models with irb by running
 3. Loop through each of these stores and output their name and annual revenue on each line.
 4. Do another fetch but this time load stores that carry women's apparel and are generating less than \$1M in annual revenue.
 
-### Exercise 5: Calculations
+### Exercise 5: Calculations - DONE
 
 1. Output the total revenue for the entire company (all stores), using Active Record's `.sum` calculation method.
 2. On the next line, also output the average annual revenue for all stores.
