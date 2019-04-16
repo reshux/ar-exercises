@@ -9,3 +9,11 @@ puts "Exercise 6"
 puts "----------"
 
 # Your code goes here ...
+
+Store.all.each do |store|
+
+    store.employees.create(first_name: "Khurram", last_name: "Virani", hourly_rate: 60)
+    store.employees.create(first_name: "Duruhan", last_name: "Unsal", hourly_rate: 80)
+
+end
+
